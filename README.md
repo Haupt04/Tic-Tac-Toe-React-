@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-React-
-Checking the Tic Tac Game in React. 
+Creating the Tic Tac Game in React. 
